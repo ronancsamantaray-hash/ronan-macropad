@@ -1,6 +1,6 @@
 # ronan-macropad
 my macropad w hack club
-Pie-Pad
+Ronana the Banana Pad
 A hack pad for Hack Club's Blueprint. It has a set of arrow keys, previous, play/pause, next, and volume control buttons
 
 This is my first time making pcbs or coding a keyboard so I struggled a bit, but I enjoyed it and I hope to learn more in the future.
